@@ -1,4 +1,4 @@
-👋 Hi, I'm Anthony!
+<h1>👋 Hi, I'm Anthony!</h1>
 <hr>
 👩🏻‍💻 Software Developer passionate about creating solutions<br>
 👩🏻‍🎓 Study Software Analisis and Development at Fatec Athur de Azevedo, Brazil.<br>
