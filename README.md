@@ -1,4 +1,4 @@
-<h2 style="color: aqua;">👋 Hi, I'm Anthony!</h2>
+<h2 style="color: #00ffff;">👋 Hi, I'm Anthony!</h2>
 <hr>
 👩🏻‍💻 Software Developer passionate about creating solutions<br>
 👩🏻‍🎓 Study Software Analisis and Development at Fatec Athur de Azevedo, Brazil.<br>
