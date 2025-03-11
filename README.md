@@ -1,4 +1,4 @@
-# 👨‍💻Anthony
+# 👨🏻‍💻Anthony
 
 **`Estudante de ADS`**
 
