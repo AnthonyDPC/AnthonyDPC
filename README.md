@@ -20,19 +20,21 @@
 
 <p>
   <table>
+    <tr>
   <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=AnthonyDPC&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-
+    </tr>
+    <tr>
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyDPC&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
-
+</tr>
 </p>
 </table>
 <!---
