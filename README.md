@@ -30,10 +30,10 @@
 
 ## 📊 Estatísticas do GitHub
 
-<div style="display: flex; align-items: center;">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AnthonyDPC&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 
-  <img height="200" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyDPC&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyDPC&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" alt="GitHub Stats" />
 </div>
 
 ## 🏆 Tecnologias
@@ -50,10 +50,7 @@
   <a href="https://github.com/AnthonyDPC">
     <img src="https://img.shields.io/github/followers/AnthonyDPC?label=Follow&style=social" />
   </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/yourprofile/">
+  <a href="https://www.linkedin.com/in/anthonydepaula/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
 </div>
