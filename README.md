@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @AnthonyDPC
-- 👀 I’m interested in BackEnd programming
-- 🌱 I’m currently learning C and Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- ⚡ Fun fact: ...
+👋 Hi, I'm Anthony!
+👩🏻‍💻 Software Developer passionate about creating solutions
+👩🏻‍🎓 Study Software Analisis and Development at Fatec Athur de Azevedo, Brazil.
+💭 Currently learning about C++ and Web Development!
 
 <!---
 AnthonyDPC/AnthonyDPC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
