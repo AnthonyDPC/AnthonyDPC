@@ -29,9 +29,11 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnthonyDPC&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="125px" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyDPC&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" alt="GitHub Stats" height="100%" />
+  <a href="https://github.com/AnthonyDPC">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnthonyDPC&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="48%" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AnthonyDPC&theme=tokyonight" width="48%" />
+    <!-- Mais tarde eu adiciono <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyDPC&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/> -->
+  </a>
 </div>
 
 ## 🏆 Troféus
