@@ -7,7 +7,7 @@
 👩🏻‍🎓 Estudo Análise e Desenvolvimento de Sistemas na Fatec de São Paulo.<br>
 💭 Atualmente focado em melhorar minhas habilidades em C++ e Desenvolvimento Web.<br>
 
-### 🧰 Languages and Tools
+### 🧰 Linguagens e Ferramentas
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -19,7 +19,7 @@
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <br />
 
-### 📊 Statistics
+### 📊 Estatisticas
 
 <div style="display: flex; align-items: center;">
     <img 
