@@ -1,10 +1,8 @@
-# <center><img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="29px"> Hello, I'm Anthony!</center>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00ffff&width=435&lines=Estudante+de+ADS;Desenvolvedor+Web;Entusiasta+C%2B%2B)](https://git.io/typing-svg)
+# <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Anthony!;Estudante+de+ADS;Desenvolvedor+Web;Entusiasta+C%2B%2B" alt="Typing SVG" /></a></h1>
 
 ## 👨‍💻 Sobre Mim
 
-<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" height="250px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 - 💼 Gosto de desenvolver soluções eficientes para problemas através da programação.
 - 🎓 Estudo Análise e Desenvolvimento de Sistemas na Fatec de São Paulo.
@@ -31,12 +29,12 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnthonyDPC&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AnthonyDPC&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="125px" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyDPC&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyDPC&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" alt="GitHub Stats" height="100%" />
 </div>
 
-## 🏆 Tecnologias
+## 🏆 Troféus
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AnthonyDPC&theme=nord&column=7" />
@@ -58,3 +56,13 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%">
 </div>
+
+## 🏆 Certificações
+
+<div align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Microsoft_Certified-JavaScript-yellow?style=for-the-badge&logo=microsoft&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Udemy-React_Developer-61DAFB?style=for-the-badge&logo=udemy&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/FreeCodeCamp-Responsive_Web_Design-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Coursera-Python_Programming-3776AB?style=for-the-badge&logo=coursera&logoColor=white" /></a>
+</div>
+<a href="[certificate-url]"><img src="https://img.shields.io/badge/[Provider]-[Certificate_Name]-[Color]?style=for-the-badge&logo=[provider-logo]&logoColor=white" /></a>
