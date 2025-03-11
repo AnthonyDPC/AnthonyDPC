@@ -22,7 +22,7 @@
     <img 
         alt="GitHub Stats" 
         height="200"
-        width="360"
+        width="370"
         src="https://github-readme-stats.vercel.app/api?username=AnthonyDPC&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
     <img 
         alt="GitHub Stats" 
