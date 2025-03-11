@@ -46,7 +46,7 @@
 
 <div align="center">
   <a href="https://github.com/AnthonyDPC">
-    <img src="https://img.shields.io/github/followers/AnthonyDPC?label=Follow&style=social" />
+    <img src="https://img.shields.io/github/followers/AnthonyDPC?label=Follow&style=social"/>
   </a>
   <a href="https://www.linkedin.com/in/anthonydepaula/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
@@ -65,4 +65,3 @@
   <a href="#"><img src="https://img.shields.io/badge/FreeCodeCamp-Responsive_Web_Design-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Coursera-Python_Programming-3776AB?style=for-the-badge&logo=coursera&logoColor=white" /></a>
 </div>
-<a href="[certificate-url]"><img src="https://img.shields.io/badge/[Provider]-[Certificate_Name]-[Color]?style=for-the-badge&logo=[provider-logo]&logoColor=white" /></a>
