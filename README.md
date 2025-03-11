@@ -20,14 +20,6 @@
 
 ![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnthonyDPC&show_icons=true&theme=gruvbox)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AnthonyDPC&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=AnthonyDPC&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 <!---
 AnthonyDPC/AnthonyDPC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
