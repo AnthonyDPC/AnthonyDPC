@@ -19,6 +19,7 @@
 ### 📊 Statistics
 
 <p>
+  <table>
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -33,6 +34,7 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyDPC&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
 
 </p>
+</table>
 <!---
 AnthonyDPC/AnthonyDPC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
