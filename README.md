@@ -28,7 +28,7 @@
     <img 
         alt="GitHub Stats" 
         height="200"
-        width="400"
+        width="450"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyDPC&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
 </div>
 
