@@ -1,8 +1,11 @@
-<h2>👋 Hi, I'm Anthony!</h2>
+# 👩🏻‍💻Anthony
+
+**`Estudante de ADS`**
+
 <hr>
-👩🏻‍💻 Software Developer passionate about creating solutions<br>
-👩🏻‍🎓 Study Software Analisis and Development at Fatec Athur de Azevedo, Brazil.<br>
-💭 Currently learning about C++ and Web Development!<br>
+👩🏻‍💻 Gosto de desenvolver soluções eficientes para problemas atrevas da programação.<br>
+👩🏻‍🎓 Estudo Análise e Desenvolvimento de Sistemas na Fatec de São Paulo.<br>
+💭 Atualmente focado em melhorar minhas habilidades em C++ e Desenvolvimento Web.<br>
 
 ### 🧰 Languages and Tools
 
