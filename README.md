@@ -3,7 +3,7 @@
 **`Estudante de ADS`**
 
 <hr>
-👩🏻‍💻 Gosto de desenvolver soluções eficientes para problemas atrevas da programação.<br>
+👩🏻‍💻 Gosto de desenvolver soluções eficientes para problemas atrevez da programação.<br>
 👩🏻‍🎓 Estudo Análise e Desenvolvimento de Sistemas na Fatec de São Paulo.<br>
 💭 Atualmente focado em melhorar minhas habilidades em C++ e Desenvolvimento Web.<br>
 
