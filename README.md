@@ -61,8 +61,5 @@
 ## 🏆 Certificações
 
 <div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Microsoft_Certified-JavaScript-yellow?style=for-the-badge&logo=microsoft&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Udemy-React_Developer-61DAFB?style=for-the-badge&logo=udemy&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/FreeCodeCamp-Responsive_Web_Design-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/IBM-Python_Programming-3776AB?style=for-the-badge&logo=ibm&logoColor=white" /></a>
 </div>
