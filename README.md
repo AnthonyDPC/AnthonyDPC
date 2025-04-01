@@ -22,9 +22,9 @@
     <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
     <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+    <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
     <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-    <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+    <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </div>
 <br />
 
@@ -33,7 +33,7 @@
 <div align="center">
   <a href="https://github.com/AnthonyDPC">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnthonyDPC&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="48%" />
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AnthonyDPC&theme=tokyonight" width="48%" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyDPC&hide_progress=true&theme=tokyonight&include_all_commits=true" width="48%" />
   </a>
 </div>
 
@@ -66,7 +66,7 @@
 ## 🏆 Certificações
 
 <div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/IBM-Python_Programming-3776AB?style=for-the-badge&logo=ibm&logoColor=white" /></a>
+  <a href="https://coursera.org/share/b2f802bb2a9075c3539099d46f3e56d7"><img src="https://img.shields.io/badge/IBM-Full_Stack_Software_Developer-3776AB?style=for-the-badge&logo=ibm&logoColor=white" /></a>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=6FC7E1&section=footer"/>
