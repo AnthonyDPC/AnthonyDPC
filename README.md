@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&size=35&center=true&vCenter=true&width=1000&lines=Hello%2C+I'm+Anthony!;Estudante+de+ADS;Desenvolvedor+Web;Entusiasta+BackEnd;:%29)](https://git.io/typing-svg)
 
-## 👨‍💻 Sobre Mim
+## 👨🏻‍💻 Sobre Mim
 
 <img align="right" height="250px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
