@@ -68,6 +68,7 @@
 
 <div align="center">
   <a href="https://coursera.org/share/b2f802bb2a9075c3539099d46f3e56d7"><img src="https://img.shields.io/badge/IBM-Full_Stack_Software_Developer-3776AB?style=for-the-badge&logo=ibm&logoColor=white" /></a>
+  <a href="https://coursera.org/share/3db8a44f451827716a5590b2a9c0d734"><img src="https://img.shields.io/badge/UIUC-Object_Oriented_Data_Structures_in_C++-FF5733?style=for-the-badge&logo=uiuc&logoColor=orange" /></a>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=6FC7E1&section=footer"/>
