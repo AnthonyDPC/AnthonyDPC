@@ -1,4 +1,6 @@
-# <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Anthony!;Estudante+de+ADS;Desenvolvedor+Web;Entusiasta+C%2B%2B" alt="Typing SVG" /></a></h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=6FC7E1"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&size=35&center=true&vCenter=true&width=1000&lines=Hello%2C+I'm+Anthony!;Estudante+de+ADS;Desenvolvedor+Web;Entusiasta+BackEnd;:%29)](https://git.io/typing-svg)
 
 ## 👨‍💻 Sobre Mim
 
@@ -42,16 +44,19 @@
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AnthonyDPC&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+    
 </div>
 
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AnthonyDPC&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile views" />
+    
   <a href="https://github.com/AnthonyDPC">
-    <img src="https://img.shields.io/github/followers/AnthonyDPC?label=Follow&style=social"/>
+      <img src="https://img.shields.io/github/followers/AnthonyDPC?label=Follow&style=for-the-badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/anthonydepaula/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
-  </a>
+
+  <a href="https://www.linkedin.com/in/anthonydepaula/" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
 </div>
 
 <div align="center">
@@ -63,3 +68,5 @@
 <div align="center">
   <a href="#"><img src="https://img.shields.io/badge/IBM-Python_Programming-3776AB?style=for-the-badge&logo=ibm&logoColor=white" /></a>
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=6FC7E1&section=footer"/>
