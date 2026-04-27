@@ -28,7 +28,6 @@
 
 <div align="center">
   <a href="https://github.com/AnthonyDPC">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnthonyDPC&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="48%" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyDPC&hide_progress=true&theme=tokyonight&include_all_commits=true" width="48%" />
   </a>
 </div>
