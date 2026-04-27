@@ -6,10 +6,9 @@
 
 <img align="right" height="250px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-- 💼 Gosto de desenvolver soluções eficientes para problemas através da programação.
-- 🎓 Estudo Análise e Desenvolvimento de Sistemas na Fatec de São Paulo.
+- 💼 Gosto de desenvolver soluções eficientes através da programação.
+- 🎓 Estudo Análise e Desenvolvimento de Sistemas na Fatec de Mogi Mirim.
 - 🌱 Atualmente focado em melhorar minhas habilidades em C++ e Desenvolvimento Web.
-- 📚 Aprendendo constantemente e evoluindo como desenvolvedor.
 
 <br />
 <br />
