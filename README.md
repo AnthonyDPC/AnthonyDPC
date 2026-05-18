@@ -32,16 +32,6 @@
   </a>
 </div>
 
-## 🏆 Troféus
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AnthonyDPC&theme=nord&column=7" />
-</p>
-
-<div align="center">
-    
-</div>
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=AnthonyDPC&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile views" />
     
