@@ -8,7 +8,6 @@
 
 - 💼 Gosto de desenvolver soluções eficientes através da programação.
 - 🎓 Estudo Análise e Desenvolvimento de Sistemas na Fatec de Mogi Mirim.
-- 🌱 Atualmente focado em melhorar minhas habilidades em C++ e Desenvolvimento Web.
 
 <br />
 <br />
